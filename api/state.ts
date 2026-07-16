@@ -5,7 +5,7 @@ import {
   bearerToken,
   getRedis,
   verifyToken,
-} from "./_auth";
+} from "./_auth.js";
 
 export default async function handler(
   req: VercelRequest,
