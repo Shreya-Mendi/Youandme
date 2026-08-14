@@ -1,5 +1,7 @@
 # u-n-me 🫶
 
+🔗 **Live app:** [youandme-xi.vercel.app](https://youandme-xi.vercel.app)
+
 **Meals, workouts & dates — together.**
 
 `u-n-me` is a **private, two-person** shared life app for a couple: a weekly
